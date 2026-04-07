@@ -1,7 +1,12 @@
 aid: team-health-holdings
-url: https://raw.githubusercontent.com/api-evangelist/team-health-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/team-health-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.team-health-holdings.com
+description: >-
+  Team Health Holdings is one of the largest physician practice organizations in the
+  United States, providing outsourced healthcare professional staffing and administrative
+  services to hospitals and other healthcare providers.
