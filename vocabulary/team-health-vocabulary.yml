@@ -1,0 +1,126 @@
+vocabulary:
+  name: Team Health Holdings Vocabulary
+  description: >-
+    Domain vocabulary for TeamHealth Holdings, a physician practice management
+    organization providing outsourced healthcare professional staffing and
+    administrative services to hospitals and healthcare providers.
+  url: https://www.teamhealth.com/
+  version: '2026-05-03'
+  tags:
+    - Healthcare
+    - Physician Staffing
+    - Hospital Medicine
+    - Emergency Medicine
+
+terms:
+
+  - term: TeamHealth
+    definition: >-
+      One of the largest physician practice organizations in the US, providing
+      outsourced physician staffing and administrative services to approximately
+      3,000 healthcare facilities nationwide.
+    type: Brand
+    tags:
+      - Company
+
+  - term: Clinician
+    definition: >-
+      A licensed healthcare professional such as a physician, nurse practitioner,
+      or physician assistant placed by TeamHealth at healthcare facilities.
+    type: Actor
+    tags:
+      - Medical Personnel
+
+  - term: Emergency Medicine
+    definition: >-
+      Medical specialty focused on acute care for patients who present to emergency
+      departments. TeamHealth staffs emergency medicine physicians and advanced
+      practice clinicians at hospital EDs.
+    type: Service Line
+    tags:
+      - Specialty
+
+  - term: Hospital Medicine
+    definition: >-
+      Medical specialty focused on the general care of hospitalized patients.
+      Hospitalists manage inpatient care, often replacing primary care physicians
+      in the hospital setting.
+    type: Service Line
+    tags:
+      - Specialty
+
+  - term: Critical Care
+    definition: >-
+      Medical specialty for severely ill patients requiring intensive monitoring
+      and treatment in ICUs. TeamHealth provides intensivist staffing.
+    type: Service Line
+    tags:
+      - Specialty
+
+  - term: Advanced Practice Clinician
+    abbreviation: APC
+    definition: >-
+      Nurse practitioners (NPs) and physician assistants (PAs) who work alongside
+      physicians to provide patient care in TeamHealth practice areas.
+    type: Role
+    tags:
+      - Medical Personnel
+
+  - term: Acute Care Facility
+    definition: >-
+      A hospital or health system providing short-term, intensive treatment for
+      severe injuries, illnesses, or urgent medical conditions. TeamHealth serves
+      approximately 3,000 such facilities.
+    type: Facility Type
+    tags:
+      - Facility
+
+  - term: Post-Acute Care
+    definition: >-
+      Care provided after a hospital stay, including skilled nursing facilities,
+      rehabilitation centers, and long-term acute care hospitals. A TeamHealth
+      service line.
+    type: Service Line
+    tags:
+      - Care Setting
+
+  - term: Physician Practice Management
+    definition: >-
+      Administrative and operational services provided to physician groups including
+      billing, compliance, credentialing, scheduling, and HR management.
+    type: Service
+    tags:
+      - Administration
+
+  - term: Anesthesiology
+    definition: >-
+      Medical specialty managing patients during surgical procedures. TeamHealth
+      provides anesthesiology staffing to healthcare facilities.
+    type: Service Line
+    tags:
+      - Specialty
+
+  - term: Medical Call Center
+    definition: >-
+      TeamHealth service providing 24/7 nurse triage, after-hours care coordination,
+      and patient engagement via telephone for healthcare organizations.
+    type: Service
+    tags:
+      - Patient Services
+
+  - term: Outsourced Staffing
+    definition: >-
+      TeamHealth's core business model: healthcare facilities contract TeamHealth
+      to manage and staff clinical departments rather than employing physicians directly.
+    type: Business Model
+    tags:
+      - Business Model
+
+  - term: Affiliated Clinician
+    definition: >-
+      A healthcare professional contracted with TeamHealth to practice at client
+      facilities. TeamHealth has over 15,000 affiliated clinicians nationwide.
+    type: Relationship
+    tags:
+      - Medical Personnel
+      - Business Relationship
