@@ -10,6 +10,17 @@ description: >-
   to approximately 3,000 acute and post-acute facilities and physician groups nationwide.
   TeamHealth does not maintain a public-facing developer API.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
