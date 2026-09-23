@@ -1,7 +1,9 @@
 ---
 title: Team Health Holdings Inc. Downgraded To 'CCC' Fro
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3087231
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Team Health Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Team Health to Be Acquired by Blackstone
 url: https://www.stblaw.com/about-us/news/view/2016/10/31/team-health-to-be-acquired-by-blackstone
-date: '2026-05-25'
+published: '2016-10-31'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Team Health Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google

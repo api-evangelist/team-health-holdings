@@ -1,7 +1,9 @@
 ---
 title: 'TeamHealth : Holdings, Inc. to Present at Upcoming Investor ...'
 url: https://www.marketscreener.com/quote/stock/TEAMHEALTH-HOLDINGS-INC-5809857/news/TeamHealth-Holdings-Inc-to-Present-at-Upcoming-Investor-Conferences-22991968/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Team Health Holdings" press release artificial intelligence'
 position: 5
 source: serpapi-google
